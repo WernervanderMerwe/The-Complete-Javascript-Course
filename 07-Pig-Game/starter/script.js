@@ -15,7 +15,9 @@ const btnHold = document.querySelector('.btn--hold');
 let scores, currentScore, activePlayer, playing;
 
 // Starting conditions
-const init = function () {
+// const init = function () {
+const init = () => {
+  // function init() {
   scores = [0, 0];
   currentScore = 0;
   activePlayer = 0;
@@ -32,8 +34,8 @@ const init = function () {
   player0El.classList.remove('player--winner');
   player1El.classList.remove('player--winner');
 };
-init();
 
+init();
 const switchPlayer = function () {
   document.getElementById(`current--${activePlayer}`).textContent = 0;
   currentScore = 0;
@@ -71,7 +73,7 @@ btnHold.addEventListener('click', function () {
     document.getElementById(`score--${activePlayer}`).textContent =
       scores[activePlayer];
     // 2. check if players score is >= 100
-    if (scores[activePlayer] >= 100) {
+    if (scores[activePlayer] >= 20) {
       // finish the game
       playing = false;
       diceEl.classList.add('hidden');
