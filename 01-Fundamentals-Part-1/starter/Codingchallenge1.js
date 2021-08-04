@@ -34,14 +34,14 @@ let bmiMark1 = markMass / (markHeight * markHeight);
 // saw that parentheses is needed in order to work because / and * share precedence so it will be calculated from left to right.
 let bmiJohn = johnMass / johnHeight ** 2;
 
-console.log('Marks BMI =', bmiMark);
-console.log('Test for same value', bmiMark1);
-console.log('Johns BMI =', bmiJohn);
+console.log("Marks BMI =", bmiMark);
+console.log("Test for same value", bmiMark1);
+console.log("Johns BMI =", bmiJohn);
 
 // 3.
 let markHigherBMI = bmiMark > bmiJohn;
-console.log('What type of data is markHigherBMI?', typeof markHigherBMI);
-console.log('is Marks BMI higher?', markHigherBMI);
+console.log("What type of data is markHigherBMI?", typeof markHigherBMI);
+console.log("is Marks BMI higher?", markHigherBMI);
 
 // Data 2, this is why I changed the 'const' to 'let'
 markMass = 95;
@@ -53,12 +53,11 @@ bmiMark = markMass / markHeight ** 2;
 bmiJohn = johnMass / johnHeight ** 2;
 markHigherBMI = bmiMark > bmiJohn;
 
-console.log('Marks BMI =', bmiMark);
-console.log('Johns BMI =', bmiJohn);
-console.log('is Marks BMI higher?', markHigherBMI);
+console.log("Marks BMI =", bmiMark);
+console.log("Johns BMI =", bmiJohn);
+console.log("is Marks BMI higher?", markHigherBMI);
 
-
-What it should have been according to the teacher:
+// What it should have been according to the teacher:
 
 const massMark = 78;
 const heightMark = 1.69;
@@ -71,7 +70,7 @@ const markHigherBMI = BMIMark > BMIJohn;
 
 console.log(BMIMark, BMIJohn, markHigherBMI);
 
-for data 2 He changed the code accordingly:
+// for data 2 He changed the code accordingly:
 
 // const massMark = 78;
 // const heightMark = 1.69;
@@ -89,8 +88,7 @@ const markHigherBMI = BMIMark > BMIJohn;
 
 console.log(BMIMark, BMIJohn, markHigherBMI);
 
-
-
+/*
 Coding Challenge #2
 
 Use the BMI example from Challenge #1, and the code you already wrote, and
@@ -105,8 +103,7 @@ BMI (28.3) is higher than John's (23.9)!"
 Hint: Use an if/else statement �
 
 GOOD LUCK �
-
-
+*/
 
 let markMass = 78;
 let markHeight = 1.69;
@@ -124,15 +121,14 @@ let bmiJohn = johnMass / johnHeight ** 2;
 
 // 1.
 if (bmiMark > bmiJohn) {
-    console.log(`Mark's BMI is higher than John's!`);
+  console.log(`Mark's BMI is higher than John's!`);
 } else {
-    console.log(`John's BMI is higher than Mark's!`);
+  console.log(`John's BMI is higher than Mark's!`);
 }
 
 // 2.
 if (bmiMark > bmiJohn) {
-    console.log(`Mark's BMI (${bmiMark}) is higher than John's (${bmiJohn})!`);
+  console.log(`Mark's BMI (${bmiMark}) is higher than John's (${bmiJohn})!`);
 } else {
-    console.log(`John's BMI (${bmiJohn}) is higher than Mark's (${bmiMark})!`);
+  console.log(`John's BMI (${bmiJohn}) is higher than Mark's (${bmiMark})!`);
 }
-
