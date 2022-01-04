@@ -1,4 +1,4 @@
-15766
+15772
 173E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\es\typed-array\slice.js121436361000000000 0
 177E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\generator\sourceMap.js121436361000000000 0
 147E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\uncss132813537169719595 1
@@ -28,7 +28,7 @@
 173E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\util\support\isBufferBrowser.js121436361000000000 0
 170E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2020\ToBigInt.js121436361000000000 0
 193E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\package-manager\src\MockPackageInstaller.js121436361000000000 0
-133E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\dist132857876680914411 1
+133E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\dist132857908310128357 1
 179E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\http-proxy-middleware\dist\types.d.ts121436361000000000 0
 160E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\fp\first.js121436361000000000 0
 191E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\helper-validator-identifier\lib\keyword.js121012626000000000 0
@@ -103,7 +103,7 @@
 185E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\uncss\node_modules\postcss\lib\stringify.js121436361000000000 0
 191E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living\nodes\DOMStringMap-impl.js121436361000000000 0
 202E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-modules-extract-imports\node_modules\chalk\readme.md121436361000000000 0
-146E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\package-lock.json132853429038677018 0
+146E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\package-lock.json132857904093034667 0
 186E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\internals\correct-is-regexp-logic.js121436361000000000 0
 213E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\uncss\node_modules\postcss-selector-parser\dist\selectors\combinator.js121436361000000000 0
 169E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\tough-cookie\lib\version.js121436361000000000 0
@@ -122,7 +122,7 @@
 212E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-modules-local-by-default\node_modules\postcss\lib\container.js121436361000000000 0
 190E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living\svg\SVGStringList-impl.js121436361000000000 0
 146E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\.bin132813573335338228 1
-141E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules132853429038852160 1
+141E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules132857904092549251 1
 172E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\chrome-trace-event\LICENSE.txt121436361000000000 0
 164E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\normalize-path\LICENSE121436361000000000 0
 172E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\browserify-aes\streamCipher.js121436361000000000 0
@@ -134,7 +134,7 @@
 178E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\uncss\node_modules\postcss\README.md121436361000000000 0
 177E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\babylon-walk\src\explode.js121436361000000000 0
 168E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\src\Parcel.js121436361000000000 0
-141E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\package.json132857876514985636 0
+141E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\package.json132857904093039670 0
 170E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\browserify-zlib\package.json132813537261397171 0
 199E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\terser\node_modules\source-map\lib\source-map-consumer.js131709648810000000 0
 185E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\5\AbstractEqualityComparison.js121436361000000000 0
@@ -158,6 +158,7 @@
 179E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-unicode\LICENSE-MIT121436361000000000 0
 199E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lmdb-store\dependencies\lmdb\libraries\liblmdb\mdb_stat.c121436361000000000 0
 175E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-value-parser\package.json132813537228433134 0
+151E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\dist\index.7d18ecee.js132857908310043280 0
 157E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\asn1.js\LICENSE121436361000000000 0
 203E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-modules-scope\node_modules\color-convert\package.json132813537234395838 0
 151E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\src\sass\_preview.scss132562249780000000 0
@@ -335,7 +336,7 @@
 213E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\namespaces.js121436361000000000 0
 152E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\parse-asn1132813537182662119 1
 186E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\types\lib\definitions\experimental.js121012626000000000 0
-155E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\src\js\views\recipeView.js132857857691614282 0
+155E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\src\js\views\recipeView.js132857908039539560 0
 163E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\fp\findFrom.js121436361000000000 0
 176E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\iconv-lite\encodings\sbcs-codec.js131794416590000000 0
 188E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2021\CreateRegExpStringIterator.js121436361000000000 0
@@ -460,7 +461,7 @@
 169E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\object.assign\test\tests.js121436361000000000 0
 163E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\fp\function.js121436361000000000 0
 148E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\src\img\favicon.png132562249780000000 0
-160E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\.package-lock.json132853429038857166 0
+160E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\.package-lock.json132857904093169785 0
 173E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\is-fullwidth-code-point\license121436361000000000 0
 159E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\mimic-fn\index.js121436361000000000 0
 154E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\cli-spinners132813537405695957 1
@@ -603,6 +604,7 @@
 160E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\xml-name-validator132813537169714592 1
 150E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\asynckit132813537143399954 1
 174E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\relateurl\lib\parse\urlstring.js130631652610000000 0
+158E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\fracty\fracty.js132857904092474185 0
 164E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\available-typed-arrays132813537407993793 1
 178E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\highlight.js\lib\languages\monkey.js121436361000000000 0
 178E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\math\to-string-tag.js121436361000000000 0
@@ -641,7 +643,6 @@
 157E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\uuid\lib\md5.js121436361000000000 0
 151E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\base64-js132813537407037223 1
 177E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\svgo\plugins\convertStyleToAttrs.js121436361000000000 0
-155E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\dist\index.d96cf820.js.map132857876680909400 0
 199E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-modules-local-by-default\node_modules\postcss\lib132813537054632573 1
 156E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\path-to-regexp132813537262068860 1
 168E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\sshpk\lib\formats\pkcs1.js131837759770000000 0
@@ -660,8 +661,6 @@
 170E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\json\index.js121436361000000000 0
 148E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\big.js132813537407037223 1
 191E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\htmlparser2\node_modules\entities\lib\decode.d.ts121436361000000000 0
-173E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\LC.js121436361000000000 0
-175E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2019\thisTimeValue.js121436361000000000 0
 150E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\cssstyle132813537391665597 1
 158E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\sha.js\sha224.js132813537041807144 0
 164E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\_baseSetData.js121436361000000000 0
@@ -1146,7 +1145,7 @@
 164E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\colord\plugins\hwb.mjs121436361000000000 0
 153E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\url\test.js130851632260000000 0
 150E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\defaults132813537391620562 1
-151E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\dist\logo.8a7af738.png132857876632201562 0
+151E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\dist\logo.8a7af738.png132857908306380138 0
 186E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.string.replace-all.js121436361000000000 0
 179E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\promise\all-settled.js121436361000000000 0
 172E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\highlight.js\scss\monokai.scss121436361000000000 0
@@ -1474,6 +1473,23 @@
 161E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\has-symbols\.github132813537074423025 1
 168E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\serve-handler\src\error.js121436361000000000 0
 152E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\fractional132853429038076501 1
+159E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\indexOf.js121436361000000000 0
+171E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\parse5\lib\tokenizer\index.js121436361000000000 0
+170E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\entities\lib\encode.d.ts.map121436361000000000 0
+164E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\is-shared-array-buffer132813537313129291 1
+195E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living\generated\CanPlayTypeResult.js121436361000000000 0
+185E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\hash\parcel-hash.linux-x64-gnu.node121436361000000000 0
+178E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2017\IsDataDescriptor.js121436361000000000 0
+169E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\node-forge\lib\index.all.js121436361000000000 0
+162E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\import-fresh\license121436361000000000 0
+168E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\fp\extendAllWith.js121436361000000000 0
+160E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\xtend\package.json132813537158047537 0
+167E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\_initCloneArray.js121436361000000000 0
+176E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\node-addon-api\tools\check-napi.js121436361000000000 0
+178E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\css-modules-loader-core\node_modules132813537126308305 1
+177E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\uri-js\dist\esnext\schemes\urn.d.ts121436361000000000 0
+164E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\object-is\CHANGELOG.md121436361000000000 0
+148E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\fracty132857904092489197 1
 182E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.regexp.constructor.js121436361000000000 0
 157E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\unpipe\index.js130787873820000000 0
 157E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\sumBy.js121436361000000000 0
@@ -1778,11 +1794,6 @@
 178E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\uri-js\dist\esnext\schemes\ws.js.map121436361000000000 0
 170E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\ws\lib\permessage-deflate.js121436361000000000 0
 161E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\fp\pathOr.js121436361000000000 0
-159E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\indexOf.js121436361000000000 0
-171E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\parse5\lib\tokenizer\index.js121436361000000000 0
-170E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\entities\lib\encode.d.ts.map121436361000000000 0
-164E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\is-shared-array-buffer132813537313129291 1
-195E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living\generated\CanPlayTypeResult.js121436361000000000 0
 162E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\json-schema\draft-00132813537073457197 1
 170E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\shebang-command\package.json132813537214380135 0
 151E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\is-string132813537313129291 1
@@ -1969,7 +1980,7 @@
 149E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\mime-db132813537283114358 1
 181E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2021\IsGenericDescriptor.js121436361000000000 0
 159E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\jake\node_modules132813537122428845 1
-156E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\dist\index.07177311.css.map132857876680909400 0
+156E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\dist\index.07177311.css.map132857908310123353 0
 155E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\vm-browserify132813537170755456 1
 158E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\fp\nth.js121436361000000000 0
 204E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\@babel\core\node_modules\source-map\dist\source-map.min.js.map131477959740000000 0
@@ -2034,9 +2045,9 @@
 153E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\object-keys132813537266777114 1
 177E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\highlight.js\styles\school-book.png121436361000000000 0
 155E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\object.assign132813537266752092 1
+177E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2019\thisNumberValue.js121436361000000000 0
 176E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\postcss-normalize-timing-functions132813537232988252 1
 169E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\generic-names\.idea\php.xml121436361000000000 0
-177E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2019\thisNumberValue.js121436361000000000 0
 172E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\runtime-service-worker132813537156766441 1
 153E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\on-finished132813537266747083 1
 174E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\http-proxy\lib\http-proxy\passes132813537054212212 1
@@ -2627,12 +2638,6 @@
 159E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\pako\package.json132813537261412184 0
 187E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\transformer-postcss\src\loadConfig.js121436361000000000 0
 210E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\uncss\node_modules\postcss-selector-parser\dist\util\ensureObject.js121436361000000000 0
-183E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\font-smooth.js121436361000000000 0
-205E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\uncss\node_modules\postcss-selector-parser\dist\util\getProp.js121436361000000000 0
-176E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\highlight.js\lib\languages\abnf.js121436361000000000 0
-167E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\_initCloneByTag.js121436361000000000 0
-167E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\fast-deep-equal\README.md121436361000000000 0
-196E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\react-refresh\cjs\react-refresh-runtime.development.js121436361000000000 0
 160E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\fp\words.js121436361000000000 0
 177E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\yaml\browser\dist\legacy-exports.js121436361000000000 0
 178E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\array\virtual\join.js121436361000000000 0
@@ -2722,16 +2727,6 @@
 176E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\xxhash-wasm\esm\xxhash-wasm.js.map121436361000000000 0
 182E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2015\IsAccessorDescriptor.js121436361000000000 0
 158E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\xtend\mutable.js121436361000000000 0
-185E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\hash\parcel-hash.linux-x64-gnu.node121436361000000000 0
-178E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2017\IsDataDescriptor.js121436361000000000 0
-169E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\node-forge\lib\index.all.js121436361000000000 0
-162E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\import-fresh\license121436361000000000 0
-168E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\fp\extendAllWith.js121436361000000000 0
-160E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\xtend\package.json132813537158047537 0
-167E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\_initCloneArray.js121436361000000000 0
-176E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\node-addon-api\tools\check-napi.js121436361000000000 0
-178E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\css-modules-loader-core\node_modules132813537126308305 1
-177E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\uri-js\dist\esnext\schemes\urn.d.ts121436361000000000 0
 158E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\xmlchars\LICENSE121436361000000000 0
 166E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\_arrayIncludes.js121436361000000000 0
 178E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\src\loadParcelPlugin.js121436361000000000 0
@@ -2969,11 +2964,12 @@
 195E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living\generated\KeyboardEventInit.js121436361000000000 0
 172E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\object-inspect\test\lowbyte.js121436361000000000 0
 157E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\which\bin\which121436361000000000 0
+179E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\number\is-integer.js121436361000000000 0
+156E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\whatwg-url\lib132813537034221055 1
+161E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\fracty\package.json132857904092444154 0
 180E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\runtime-service-worker\LICENSE121436361000000000 0
 161E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\on-finished\LICENSE130526269920000000 0
 161E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\ripemd160\README.md131685915220000000 0
-179E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\number\is-integer.js121436361000000000 0
-156E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\whatwg-url\lib132813537034221055 1
 182E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\string\virtual\index.js121436361000000000 0
 220E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\css-modules-loader-core\node_modules\chalk\node_modules\supports-color\license130412725910000000 0
 197E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\split2\node_modules\readable-stream\readable-browser.js121436361000000000 0
@@ -3531,6 +3527,12 @@
 162E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\propertyOf.js121436361000000000 0
 180E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\esnext.iterator.map.js121436361000000000 0
 214E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\uncss\node_modules\postcss-selector-parser\dist\__tests__\sourceIndex.js121436361000000000 0
+183E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\font-smooth.js121436361000000000 0
+205E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\uncss\node_modules\postcss-selector-parser\dist\util\getProp.js121436361000000000 0
+176E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\highlight.js\lib\languages\abnf.js121436361000000000 0
+167E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\_initCloneByTag.js121436361000000000 0
+167E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\fast-deep-equal\README.md121436361000000000 0
+196E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\react-refresh\cjs\react-refresh-runtime.development.js121436361000000000 0
 172E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\math\log1p.js121436361000000000 0
 165E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\object-is\test\tests.js121436361000000000 0
 153E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\psl\LICENSE121436361000000000 0
@@ -3942,8 +3944,8 @@
 175E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\builtin-status-codes\package.json132813537401929130 0
 178E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\tls1-1.js121436361000000000 0
 162E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\minimist\test\num.js121436361000000000 0
-170E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\timers-browserify\LICENSE.md121436361000000000 0
 170E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2019\TimeClip.js121436361000000000 0
+170E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\timers-browserify\LICENSE.md121436361000000000 0
 173E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\test\test-utils.js121436361000000000 0
 167E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\timers-browserify\main.js121436361000000000 0
 165E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\fp\difference.js121436361000000000 0
@@ -6992,7 +6994,6 @@
 174E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\css-tree\lib\generator\create.js121436361000000000 0
 175E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\jake\node_modules\chalk\readme.md121436361000000000 0
 158E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\object-is\.nycrc121436361000000000 0
-164E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\object-is\CHANGELOG.md121436361000000000 0
 174E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\stable\instance\flags.js121436361000000000 0
 161E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\object-is\README.md121436361000000000 0
 156E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\object-is\test132813537062139027 1
@@ -7018,8 +7019,8 @@
 175E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2021\ByteListEqual.js121436361000000000 0
 160E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\debug\package.json132813537268899452 0
 167E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\object-inspect\test\fn.js121436361000000000 0
-159E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\partial.js121436361000000000 0
 168E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\object-inspect\test\has.js121436361000000000 0
+159E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\partial.js121436361000000000 0
 169E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\fastest-levenshtein\test.js121436361000000000 0
 170E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\object-inspect\test\holes.js121436361000000000 0
 161E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\mkdirp\package.json132813537270073367 0
@@ -7996,7 +7997,7 @@
 192E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\jsdom\lib\jsdom\living\generated\ErrorEventInit.js121436361000000000 0
 174E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\modules\es.array.join.js121436361000000000 0
 166E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\_baseZipObject.js121436361000000000 0
-154E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\dist\favicon.76dd299c.png132857876678031932 0
+154E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\dist\favicon.76dd299c.png132857908306895581 0
 174E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2017\ObjectCreate.js121436361000000000 0
 161E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\_cacheHas.js121436361000000000 0
 188E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\transformer-postcss\src\loadPlugins.js121436361000000000 0
@@ -8237,6 +8238,7 @@
 165E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\fp\assignWith.js121436361000000000 0
 164E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\fp\assocPath.js121436361000000000 0
 167E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\htmlnano\uncss-fork.patch121436361000000000 0
+158E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\fracty\readme.md132857904092504206 0
 157E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\fp\at.js121436361000000000 0
 159E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\is-regex\index.js121436361000000000 0
 162E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\lodash\fp\bindAll.js121436361000000000 0
@@ -9674,8 +9676,6 @@
 161E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\is-extglob\index.js131207851190000000 0
 161E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\@types\node\vm.d.ts132808806890000000 0
 160E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\is-extglob\LICENSE130689047460000000 0
-182E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\lib\public\PluginOptions.js121436361000000000 0
-177E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2019\thisStringValue.js121436361000000000 0
 170E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\browserify-zlib\lib\index.js131409793070000000 0
 162E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\is-docker\index.d.ts121436361000000000 0
 159E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\is-docker\license121436361000000000 0
@@ -10223,9 +10223,9 @@
 179E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2020\BigInt\bitwiseXOR.js121436361000000000 0
 179E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\highlight.js\lib\languages\haskell.js121436361000000000 0
 164E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\create-hmac\browser.js121436361000000000 0
+177E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2019\thisSymbolValue.js121436361000000000 0
 180E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\highlight.js\lib\languages\htmlbars.js121436361000000000 0
 173E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\function-bind\implementation.js131483794420000000 0
-177E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2019\thisSymbolValue.js121436361000000000 0
 176E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\highlight.js\lib\languages\java.js121436361000000000 0
 182E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\highlight.js\lib\languages\javascript.js121436361000000000 0
 182E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\highlight.js\lib\languages\julia-repl.js121436361000000000 0
@@ -10535,6 +10535,10 @@
 181E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\csso\lib\restructure\6-restructBlock.js121436361000000000 0
 160E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\fs.realpath\old.js131104855040000000 0
 166E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\fs.realpath\package.json132813537349942028 0
+178E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\mathml.js121436361000000000 0
+163E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\fracty\.gitattributes132857904092449167 0
+169E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-to-primitive\test\es5.js121436361000000000 0
+163E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\fracty\fracty.test.js132857904092484193 0
 194E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\font-metrics-overrides.js121436361000000000 0
 168E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\fractional\array_mixins.js132853429038026457 0
 166E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\packager-css\lib132813537031683409 1
@@ -10760,8 +10764,6 @@
 170E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-to-primitive\package.json132813537297556032 0
 188E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\css-writing-mode.js121436361000000000 0
 172E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-to-primitive\test\es2015.js121436361000000000 0
-178E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\mathml.js121436361000000000 0
-169E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-to-primitive\test\es5.js121436361000000000 0
 177E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-to-primitive\.github\FUNDING.yml121436361000000000 0
 160E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\.nycrc121436361000000000 0
 194E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\features\keyboardevent-charcode.js121436361000000000 0
@@ -11158,6 +11160,10 @@
 182E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2019\StringGetOwnProperty.js121436361000000000 0
 185E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2019\SymbolDescriptiveString.js121436361000000000 0
 178E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2019\thisBooleanValue.js121436361000000000 0
+182E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\@parcel\core\lib\public\PluginOptions.js121436361000000000 0
+177E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2019\thisStringValue.js121436361000000000 0
+173E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\caniuse-lite\data\regions\LC.js121436361000000000 0
+175E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2019\thisTimeValue.js121436361000000000 0
 175E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2019\TimeWithinDay.js121436361000000000 0
 171E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\es-abstract\2019\ToBoolean.js121436361000000000 0
 176E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\core-js\features\instance\slice.js121436361000000000 0
@@ -15761,7 +15767,7 @@
 155E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\uuid.cmd132813537410109741 0
 152E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\which132813537410149778 0
 156E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\node_modules\.bin\which.ps1132813537410149778 0
-152E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\dist\icons.9801e6f1.svg132857876680569108 0
-152E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\dist\index.07177311.css132857876680824332 0
-151E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\dist\index.d96cf820.js132857876680829334 0
-144E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\dist\index.html132857876680824332 0
+152E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\dist\icons.9801e6f1.svg132857908310043280 0
+152E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\dist\index.07177311.css132857908310043280 0
+155E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\dist\index.7d18ecee.js.map132857908310123353 0
+144E:\Online learning\The Complete Javascript Course\Initial and final scripts\complete-javascript-course-master\18-forkify\starter\dist\index.html132857908310043280 0
